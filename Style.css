@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  body {
+    background-image: url("Background11.gif");
+    background-repeat: no-repeat;  
+    background-size: cover;        
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  canvas {
+    border: 1px solid white;
+  }
+  
